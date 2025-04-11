@@ -21,8 +21,8 @@ Exploratory and analytical queries used to:
 - Understand behavior across geography, age, and other factors
 
 **View SQL file:**  
-[bank_churn_queries.sql]([./SQL/bank_churn_queries.sql](https://github.com/Meghasoni04/Customer_Churn_Analysis./blob/b5c7458bec394333f78158addffc1a212e04eb61/SQL/bank_churn_queries.sql))
-
+[bank_churn_queries.sql]
+https://github.com/Meghasoni04/Customer_Churn_Analysis./blob/7dc570546e1901db6a85c43c2984b17fe3597c22/SQL/bank_churn_queries.sql
 ---
 
 ## 3. PowerPoint Presentation
