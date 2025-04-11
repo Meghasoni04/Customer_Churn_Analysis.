@@ -30,4 +30,4 @@ https://github.com/Meghasoni04/Customer_Churn_Analysis./blob/7dc570546e1901db6a8
 Final summary of insights from SQL and Power BI with recommendations.
 
 **Download PPT:** 
-[[Bank_Churn_Analysis_Presentation.pptx](./Presentation/Bank_Churn_Analysis_Presentation.pptx)](https://github.com/Meghasoni04/Customer_Churn_Analysis./blob/b5c7458bec394333f78158addffc1a212e04eb61/Presentation/Bank%20Churn%20Analysis.pptx)
+**[[Bank_Churn_Analysis_Presentation.pptx](./Presentation/Bank_Churn_Analysis_Presentation.pptx)](https://github.com/Meghasoni04/Customer_Churn_Analysis./blob/b5c7458bec394333f78158addffc1a212e04eb61/Presentation/Bank%20Churn%20Analysis.pptx)**
